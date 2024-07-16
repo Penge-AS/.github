@@ -1,3 +1,3 @@
 # Penge
 
-Appen [Penge](penge.app) kommer snart!
+Appen [Penge](https://www.penge.app) kommer snart!
